@@ -1,4 +1,6 @@
 tornado/
+tornado_win10/
+
 .DS_Store
 
 /data/all_data/
